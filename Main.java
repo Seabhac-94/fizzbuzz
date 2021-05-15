@@ -3,7 +3,6 @@
 
 class Main {
     public static void main(String[] args) {
-        //psuedo code
         for (int count = 1; count <= 100; count++) {
 
             if (count % 3 == 0 && count % 5 == 0 ){
